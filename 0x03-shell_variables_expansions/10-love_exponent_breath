@@ -1,2 +1,2 @@
 #!/bin/nash
-echo $(($BREATH**%LOVE))
+echo $(($BREATH**$LOVE))
